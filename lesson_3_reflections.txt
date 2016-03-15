@@ -3,3 +3,9 @@ When would you want to create a remote repository rather than keeping all your w
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	By allowing manually pulling, this allows users to control the syncing rather than Git always pushing updates and thus hindering progress.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Fork is when you want to clone another repository from another user, this will not affect their repository
+	Cloning is when you want to clone a remote repository to local or from a local to another local.
+	branching is to create another feature which is different from master and will not affect master.
+	
